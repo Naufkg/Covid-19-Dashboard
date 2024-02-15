@@ -38,8 +38,9 @@ To understand the spread and impact of the virus over the world,
 Visualized trends of total confirmed cases , deaths and recoveries over time both Globally and Country_wise.
 Analysed the trend of  CPR , Recovery rate, Mortality rate Globally by calculating creating new measures using the DAX language and  visualized and summarized to know the trend over time globally and country_wise.
 
-### Dashboard Analysis Report
-
+### Dashboard Analysis Summary
+From the insights gotten from the analysis of the covid-19 data, we can conclude that while Asia has the most population, the continent of Europe had the highest numbers in both cases and infection. 
+This could be a result of a number of reasons which were not explored in this analysis, some of which may include the under-reporting of some of the cases in certain countries and the efficient handling of the outbreak in some others.
 
 
   
