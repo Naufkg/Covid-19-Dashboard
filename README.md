@@ -4,6 +4,7 @@
 
 Check out this video on how dashboard is created in power BI and what all information we can draw from each visuals created in the dashboard.
 [Watch the Video part1](https://drive.google.com/file/d/1R6UgG_a0SpuILuXKe0JJfkhTGMI3ooyB/view?usp=drive_link)
+
 [Watch the Video part2](https://drive.google.com/file/d/1H1tor9Kl6W3jEAvHrn4_Bou7P12TN30q/view?usp=drive_link)
 
 ## Objective
